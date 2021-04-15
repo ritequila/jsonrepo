@@ -1,0 +1,54 @@
+{
+	"metrics":[
+		{
+			"metric_type": "EGM_OUT_ALG_1_VAR_15",
+			"metric_input": "ALG_PressTerm_Bassa",
+			"metric_output": "ALG_PressTerm_Bassa",
+		},
+		{
+			"metric_type": "EGM_OUT_ALG_1_VAR_16",
+			"metric_input": "ALG_PressTerm_Alta",
+			"metric_output": "ALG_PressTerm_Alta",
+		},
+		{
+			"metric_type": "EGM_OUT_ALG_1_VAR_17",
+			"metric_input": "ALG_PressTerm_Fase4_Bassissima",
+			"metric_output": "ALG_PressTerm_Fase4_Bassissima",
+		},
+		{
+			"metric_type": "EGM_OUT_SENS_1_VAR_26",
+			"metric_input": "SENS_PressTerm_Fase4",
+			"metric_output": "SENS_PressTerm_Fase4",
+		},
+		{
+			"metric_type": "EGM_OUT_SENS_1_VAR_27",
+			"metric_input": "SENS_PressTerm_Fase8",
+			"metric_output": "SENS_PressTerm_Fase8",
+		},
+		{
+			"metric_type": "EGM_OUT_SENS_1_VAR_28",
+			"metric_input": "SENS_PressTerm_Fase12",
+			"metric_output": "SENS_PressTerm_Fase12",
+		},
+		{
+			"metric_type": "EGM_OUT_ALG_1_VAR_32",
+			"metric_input": "ALG_AlarmCorrSchermo_Generico",
+			"metric_output": "ALG_AlarmCorrSchermo_Generico",
+		},
+		{
+			"metric_type": "EGM_OUT_ALG_1_VAR_33",
+			"metric_input": "ALG_AlarmCorrSchermo_Brain",
+			"metric_output": "ALG_AlarmCorrSchermo_Brain",
+		},
+		{
+			"metric_type": "EGM_OUT_SENS_1_VAR_38",
+			"metric_input": "SENS_CorrentiSchermo_Fase4",
+			"metric_output": "SENS_CorrentiSchermo_Fase4",
+		},
+		{
+			"metric_type": "EGM_OUT_SENS_1_VAR_39",
+			"metric_input": "SENS_CorrentiSchermo_Fase8",
+			"metric_output": "SENS_CorrentiSchermo_Fase8",
+		}
+	]
+}
