@@ -1,8 +1,7 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+  "Metric": {
+    "metric_type": "string",
+    "metric_input": "string",
+    "metric_output": "string"
   }
 }
