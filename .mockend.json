@@ -2,6 +2,7 @@
   "Metric": {
     "metric_type": "string",
     "metric_input": "string",
-    "metric_output": "string"
+    "metric_output": "string",
+    "scope_device": "boolean"
   }
 }
