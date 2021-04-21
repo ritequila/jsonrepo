@@ -13,5 +13,15 @@
     "var_type":"boolean",
     "sampling":"int",
     "aggregation":"int"
+  },
+  "Device":{
+    "deviceId": "string",
+    "devtype": "string"
+  },
+  "DevType":{
+    "devtype": "string"
+  },
+  "Category":{
+    "category": "string"
   }
 }
