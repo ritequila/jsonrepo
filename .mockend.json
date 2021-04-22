@@ -1,19 +1,4 @@
 {
-  "Metric": {
-    "isdevicescope": "boolean",
-    "metric_type": "string",
-    "metric":"string",
-    "metric_output": "string",
-    "descr":"string",
-    "um":"string",
-    "val_min":"int",
-    "val_max":"int",
-    "multiplier":"int",
-    "res":"int",
-    "var_type":"boolean",
-    "sampling":"int",
-    "aggregation":"int"
-  },
   "Measurement": {
     "isdevicescope": "boolean",
     "metric_type": "string",
